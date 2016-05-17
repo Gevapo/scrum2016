@@ -2,6 +2,7 @@
 =
 
  Scrum oefening in het traject PHP Ontwikkelaar
+ 
  https://tseizoen.vdabantwerpen.be/
 
 Doelstelling
